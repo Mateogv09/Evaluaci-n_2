@@ -17,3 +17,18 @@ body {
     /* Agrega un comentario aquí para explicar el atributo padding */
     padding: 20px;
 }
+/* Agrega un comentario aquí para explicar la función del selector .tarjeta */
+.tarjeta {
+    /* Agrega un comentario aquí para explicar el atributo width */
+    width: 300px; 
+    /* Agrega un comentario aquí para explicar el atributo margin */
+    margin: 10px; 
+    /* Agrega un comentario aquí para explicar el atributo border */
+    border: 1px solid #ccc; 
+    /* Agrega un comentario aquí para explicar el atributo padding */
+    padding: 20px; 
+    /* Agrega un comentario aquí para explicar el atributo border-radius */
+    border-radius: 5px; 
+    /* Agrega un comentario aquí para explicar el atributo box-shadow */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+}
