@@ -32,3 +32,14 @@ body {
     /* Agrega un comentario aquí para explicar el atributo box-shadow */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
 }
+/* Agrega un comentario aquí para explicar la función del selector .tarjeta img */
+.tarjeta img {
+    /* Agrega un comentario aquí para explicar el atributo width */
+    width: 100%; 
+    /* Agrega un comentario aquí para explicar el atributo height */
+    height: auto; 
+    /* Agrega un comentario aquí para explicar el atributo display */
+    display: block; 
+    /* Agrega un comentario aquí para explicar el atributo border-radius */
+    border-radius: 5px 5px 0 0; 
+}
