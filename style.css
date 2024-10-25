@@ -1,59 +1,59 @@
-/* Agrega un comentario aquí para explicar la función del selector body */
+/* se usa para aplicar estilos a toda la página web. Permite cambiar el fondo, la tipografía, márgenes y paddings, afectando a todo el contenido dentro de <body>.*/
 body {
-    /* Agrega un comentario aquí para explicar el atributo font-family */
+    /* se utiliza para cambiar la fuente del texto en un elemento y Permite elegir fuentes específicas o genéricas. */
     font-family: sans-serif;
-    /* Agrega un comentario aquí para explicar el atributo margin */
+    /* se utiliza para crear espacio alrededor de los elementos. */
     margin: 0;
 }
 
-/* Agrega un comentario aquí para explicar la función del selector .contenedor */
+/* se usa para aplicar estilos y Permite cambiar o modificas el fondo, la tipografía, márgenes y paddings, afectando a todo el contenido dentro de <contenedor>. */
 .contenedor {
-    /* Agrega un comentario aquí para explicar el atributo display */
+    /* dice cómo se ve un elemento en la página, como si ocupa toda la línea (bloque) o solo lo que necesita (en línea). */
     display: flex; 
-    /* Agrega un comentario aquí para explicar el atributo flex-wrap */
+    /* Se utiliza para decidir si los elementos dentro de un contenedor flexible deben quedarse en una sola línea o pasar a la siguiente línea si no caben. */
     flex-wrap: wrap; 
-    /* Agrega un comentario aquí para explicar el atributo justify-content */
+    /* Se utiliza para alinear los elementos dentro de un contenedor flexible. Puedes ponerlos al principio, al final, centrarlos o repartir el espacio entre ellos. */
     justify-content: space-around; 
-    /* Agrega un comentario aquí para explicar el atributo padding */
+    /* Se utiliza para crear un espacio dentro de un elemento, entre su contenido y su borde. Ayuda a que el texto o las imágenes no estén pegados al borde. */
     padding: 20px;
 }
-/* Agrega un comentario aquí para explicar la función del selector .tarjeta */
+/* se usa para aplicar estilos y Permite cambiar o modificas el fondo, la tipografía, márgenes y paddings, afectando a todo el contenido dentro de <tarjeta>. */
 .tarjeta {
-    /* Agrega un comentario aquí para explicar el atributo width */
+    /* sirve para ajustar el ancho de un elemento en la página. */
     width: 300px; 
-    /* Agrega un comentario aquí para explicar el atributo margin */
+    /* se utiliza para crear espacio alrededor de los elementos. */
     margin: 10px; 
-    /* Agrega un comentario aquí para explicar el atributo border */
+    /* Se utiliza para agregar un borde alrededor de un elemento, permitiendo ajustar su grosor, estilo y color. */
     border: 1px solid #ccc; 
-    /* Agrega un comentario aquí para explicar el atributo padding */
+    /* Se utiliza para crear un espacio dentro de un elemento, entre su contenido y su borde. Ayuda a que el texto o las imágenes no estén pegados al borde.*/
     padding: 20px; 
-    /* Agrega un comentario aquí para explicar el atributo border-radius */
+    /* Se utiliza para redondear las esquinas de un elemento, dándole un aspecto más suave. */
     border-radius: 5px; 
-    /* Agrega un comentario aquí para explicar el atributo box-shadow */
+    /* Se utiliza para agregar sombra a un elemento, lo que le da un efecto de profundidad. */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
 }
-/* Agrega un comentario aquí para explicar la función del selector .tarjeta img */
+/* se usa para aplicar estilos y Permite cambiar o modificas el fondo, la tipografía, márgenes y paddings, afectando a todo el contenido dentro de <tarjeta img>. */
 .tarjeta img {
-    /* Agrega un comentario aquí para explicar el atributo width */
+    /* sirve para ajustar el ancho de un elemento en la página. */
     width: 100%; 
-    /* Agrega un comentario aquí para explicar el atributo height */
+    /* sirve para ajustar la altura de un elemento en la página. */
     height: auto; 
-    /* Agrega un comentario aquí para explicar el atributo display */
+    /* Se utiliza para determinar cómo se muestra un elemento en la página, como si ocupa toda la línea o solo lo que necesita.*/
     display: block; 
-    /* Agrega un comentario aquí para explicar el atributo border-radius */
+    /* Se utiliza para redondear las esquinas de un elemento, dándole un aspecto más suave. */
     border-radius: 5px 5px 0 0; 
 }
 
-/* Agrega un comentario aquí para explicar la función del selector .tarjeta h3 */
+/* se usa para aplicar estilos y Permite cambiar o modificas el fondo, la tipografía, márgenes y paddings, afectando a todo el contenido dentro de <tarjeta h3>.*/
 .tarjeta h3 {
-    /* Agrega un comentario aquí para explicar el atributo margin-top */
+    /* se utiliza para crear espacio en la parte superior de un elemento. Esto ayuda a separar visualmente el elemento de los que están por encima de él. */
     margin-top: 10px; 
 }
 
-/* Agrega un comentario aquí para explicar la función del selector .tarjeta p */
+/* se usa para aplicar estilos y Permite cambiar o modificas el fondo, la tipografía, márgenes y paddings, afectando a todo el contenido dentro de <tarjeta p>. */
 .tarjeta p {
-    /* Agrega un comentario aquí para explicar el atributo font-size */
+    /* se utiliza para definir el tamaño del texto */
     font-size: 0.9em; 
-    /* Agrega un comentario aquí para explicar el atributo line-height */
+    /*controla el espacio entre las líneas.  */
     line-height: 1.5; 
 }
