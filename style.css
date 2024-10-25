@@ -1,0 +1,19 @@
+/* Agrega un comentario aquí para explicar la función del selector body */
+body {
+    /* Agrega un comentario aquí para explicar el atributo font-family */
+    font-family: sans-serif;
+    /* Agrega un comentario aquí para explicar el atributo margin */
+    margin: 0;
+}
+
+/* Agrega un comentario aquí para explicar la función del selector .contenedor */
+.contenedor {
+    /* Agrega un comentario aquí para explicar el atributo display */
+    display: flex; 
+    /* Agrega un comentario aquí para explicar el atributo flex-wrap */
+    flex-wrap: wrap; 
+    /* Agrega un comentario aquí para explicar el atributo justify-content */
+    justify-content: space-around; 
+    /* Agrega un comentario aquí para explicar el atributo padding */
+    padding: 20px;
+}
